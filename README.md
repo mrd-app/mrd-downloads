@@ -6,7 +6,7 @@ Aplicativo gratuito para Windows, desenvolvido para organizar a rotina do despac
 
 ## Download
 
-[Baixar Mr. D. 1.0.0 para Windows 64 bits](https://github.com/marsolla/mrd-downloads/releases/download/1.0.0/MrD-Setup-1.0.0-win-x64.exe)
+[Baixar Mr. D. 1.0.0 para Windows 64 bits](https://github.com/mrd-app/mrd-downloads/releases/download/1.0.0/MrD-Setup-1.0.0-win-x64.exe)
 
 ## Requisitos
 
@@ -42,3 +42,8 @@ Faça backups regulares, mantenha uma cópia em outro dispositivo e teste a rest
 Este repositório é utilizado para distribuir instaladores. O aplicativo é gratuito e seu código-fonte é fechado. Os arquivos automáticos **Source code** do GitHub contêm apenas os arquivos deste repositório, não o código-fonte do Mr. D.
 
 O Mr. D. é um aplicativo independente, sem vínculo institucional com órgãos governamentais. Ele organiza e acompanha informações; não realiza automaticamente solicitações nos sistemas oficiais.
+
+## Contato
+
+Dúvidas e sugestões: [contatomrdapp@gmail.com](mailto:contatomrdapp@gmail.com).
+Não envie senhas, chaves de recuperação, backups ou documentos pessoais por e-mail.
